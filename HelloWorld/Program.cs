@@ -12,6 +12,7 @@ namespace HelloWorld
         {
 
             Console.WriteLine("Hello World");
+            CheckPrime.FindPrimeNumber();
             Console.ReadLine();
 
         }
