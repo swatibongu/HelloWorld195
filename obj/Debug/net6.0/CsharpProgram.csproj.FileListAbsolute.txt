@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\HelloWorld\CsharpProgram\bin\Debug\net6.0\CsharpProgram.exe
+C:\Users\Asus\source\repos\HelloWorld\CsharpProgram\bin\Debug\net6.0\CsharpProgram.deps.json
+C:\Users\Asus\source\repos\HelloWorld\CsharpProgram\bin\Debug\net6.0\CsharpProgram.runtimeconfig.json
+C:\Users\Asus\source\repos\HelloWorld\CsharpProgram\bin\Debug\net6.0\CsharpProgram.dll
+C:\Users\Asus\source\repos\HelloWorld\CsharpProgram\bin\Debug\net6.0\CsharpProgram.pdb
+C:\Users\Asus\source\repos\HelloWorld\CsharpProgram\obj\Debug\net6.0\CsharpProgram.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\HelloWorld\CsharpProgram\obj\Debug\net6.0\CsharpProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\HelloWorld\CsharpProgram\obj\Debug\net6.0\CsharpProgram.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\HelloWorld\CsharpProgram\obj\Debug\net6.0\CsharpProgram.AssemblyInfo.cs
+C:\Users\Asus\source\repos\HelloWorld\CsharpProgram\obj\Debug\net6.0\CsharpProgram.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\HelloWorld\CsharpProgram\obj\Debug\net6.0\CsharpProgram.dll
+C:\Users\Asus\source\repos\HelloWorld\CsharpProgram\obj\Debug\net6.0\refint\CsharpProgram.dll
+C:\Users\Asus\source\repos\HelloWorld\CsharpProgram\obj\Debug\net6.0\CsharpProgram.pdb
+C:\Users\Asus\source\repos\HelloWorld\CsharpProgram\obj\Debug\net6.0\CsharpProgram.genruntimeconfig.cache
+C:\Users\Asus\source\repos\HelloWorld\CsharpProgram\obj\Debug\net6.0\ref\CsharpProgram.dll
