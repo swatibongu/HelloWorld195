@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\EmployeeCheck\EmployeeCheck\bin\Debug\net6.0\EmployeeCheck.exe
+C:\Users\Asus\source\repos\EmployeeCheck\EmployeeCheck\bin\Debug\net6.0\EmployeeCheck.deps.json
+C:\Users\Asus\source\repos\EmployeeCheck\EmployeeCheck\bin\Debug\net6.0\EmployeeCheck.runtimeconfig.json
+C:\Users\Asus\source\repos\EmployeeCheck\EmployeeCheck\bin\Debug\net6.0\EmployeeCheck.dll
+C:\Users\Asus\source\repos\EmployeeCheck\EmployeeCheck\bin\Debug\net6.0\EmployeeCheck.pdb
+C:\Users\Asus\source\repos\EmployeeCheck\EmployeeCheck\obj\Debug\net6.0\EmployeeCheck.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\EmployeeCheck\EmployeeCheck\obj\Debug\net6.0\EmployeeCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\EmployeeCheck\EmployeeCheck\obj\Debug\net6.0\EmployeeCheck.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\EmployeeCheck\EmployeeCheck\obj\Debug\net6.0\EmployeeCheck.AssemblyInfo.cs
+C:\Users\Asus\source\repos\EmployeeCheck\EmployeeCheck\obj\Debug\net6.0\EmployeeCheck.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\EmployeeCheck\EmployeeCheck\obj\Debug\net6.0\EmployeeCheck.dll
+C:\Users\Asus\source\repos\EmployeeCheck\EmployeeCheck\obj\Debug\net6.0\refint\EmployeeCheck.dll
+C:\Users\Asus\source\repos\EmployeeCheck\EmployeeCheck\obj\Debug\net6.0\EmployeeCheck.pdb
+C:\Users\Asus\source\repos\EmployeeCheck\EmployeeCheck\obj\Debug\net6.0\EmployeeCheck.genruntimeconfig.cache
+C:\Users\Asus\source\repos\EmployeeCheck\EmployeeCheck\obj\Debug\net6.0\ref\EmployeeCheck.dll
